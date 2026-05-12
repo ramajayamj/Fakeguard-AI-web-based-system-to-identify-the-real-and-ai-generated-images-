@@ -1,6 +1,0 @@
-tensorflow
-flask
-flask-cors
-pillow
-opencv-python-headless
-google-generativeai
